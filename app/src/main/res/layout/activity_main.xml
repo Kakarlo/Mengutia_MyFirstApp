@@ -21,8 +21,8 @@
 
     <ImageView
         android:id="@+id/AnimeGirl1"
-        android:layout_width="362dp"
-        android:layout_height="548dp"
+        android:layout_width="313dp"
+        android:layout_height="472dp"
         android:contentDescription="@string/description"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="@+id/MainText"
